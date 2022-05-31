@@ -1,0 +1,204 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+@font-face {
+    font-family: myFirstFont;
+    src: url(Mellisa-Hella.ttf);
+  }
+  section{
+      border: 10px solid black;
+  }
+#head_top{
+    margin-left: 100px;
+    padding: 20px;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 25px;
+}
+#head_top .top_1 .top_2 th{
+    padding: 35px;
+}
+.img1 img{
+    height: 200px;
+    width: 250px;
+    margin-top: 120px;
+    margin-left: 620px;
+}
+.mid_second .first_para{
+    margin-left: 150px;
+    font-size: 40px;
+    color: orange;
+    font-family: myFirstFont;
+    font-weight: 10;
+}
+.mid_second .second_para{
+    font-family: 'Roboto Mono', monospace;
+    margin-left: 50px;
+    font-size: 30px;
+    font-weight: 5;
+}
+.mid_second .second_para1{
+    font-family: 'Roboto Mono', monospace;
+    margin-left: 150px;
+    font-size: 30px;
+    font-weight: 5;
+}
+.mid_second .second_para2{
+    font-family: 'Roboto Mono', monospace;
+    margin-left: 150px;
+    font-size: 30px;
+    font-weight: 5;
+}
+.mid_second .img2{
+    padding-left: 270px;
+
+}
+#mid_two{
+    padding-top: 130px;
+}
+.mid_third .img3{
+    padding-left: 180px;
+}
+.mid_third .tfirst_para{
+    font-family: myFirstFont;
+    color: orange;
+    font-size: 50px;
+    font-weight: 5;
+}
+.mid_third .tsecond_para{
+    font-size: 25px;
+    font-weight: 50px;
+    font-family: 'Roboto Mono', monospace;
+    margin-right: 115px;
+}
+.mid_third .tthird_para{
+    font-size: 25px;
+    font-weight: 50px;
+    font-family: 'Roboto Mono', monospace;
+    color: orange;
+    margin-right: 32px;
+}
+.mid_third .tfourth_para{
+    font-size: 25px;
+    font-weight: 50px;
+    font-family: 'Roboto Mono', monospace;
+    margin-right: 32px;
+}
+.mid_third .tfifth_para{
+    font-size: 25px;
+    font-weight: 50px;
+    font-family: 'Roboto Mono', monospace;
+    color: orange;
+    margin-right: 170px;
+}
+.mid_third .tsixth_para{
+    font-size: 25px;
+    font-weight: 50px;
+    font-family: 'Roboto Mono', monospace;
+    margin-right: -202px;
+}
+.mid_third .tseventh_para{
+    font-size: 25px;
+    font-weight: 50px;
+    font-family: 'Roboto Mono', monospace;
+    margin-right: -120px;
+}
+.mid_third .teighth_para{
+    font-size: 25px;
+    font-weight: 50px;
+    font-family: 'Roboto Mono', monospace;
+    color: orange;
+    margin-left: 92px;
+}
+#mid_three{
+    padding-top: 170px;
+}
+.data1{
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 25px;
+    margin-left: 130px;
+    margin-top: 150px;
+}
+.center1{
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 25px;
+    margin-top: 10px;
+}
+#mid_four{
+    margin-top: 170px;
+}
+.mid_fourth .img4{
+    padding-left: 180px;
+}
+.mid_fourth .ffirst_para{
+    font-size: 32px;
+    font-weight: 50px;
+    font-family: 'Roboto Mono', monospace;
+    margin-left: 100px;
+}
+.mid_fourth .fsecond_para{
+    font-size: 32px;
+    font-weight: 50px;
+    font-family: 'Roboto Mono', monospace;
+    margin-left: 100px;
+}
+.mid_fourth .fthird_para{
+    font-size: 45px;
+    font-weight: 5;
+    font-family: myFirstFont;
+    color: orange;
+    margin-left: -100px;
+}
+#mid_five{
+    margin-top: 170px;
+}
+.mid_fifth .Ffirst_para{
+    font-size: 32px;
+    font-weight: 50px;
+    font-family: 'Roboto Mono', monospace;
+    margin-left: 200px;
+}
+.mid_fifth .Fsecond_para{
+    font-size: 32px;
+    font-weight: 50px;
+    font-family: 'Roboto Mono', monospace;
+    margin-left: 24px;
+}
+.mid_fifth .Fthird_para{
+    font-size: 45px;
+    font-weight: 1;
+    font-family: myFirstFont;
+    color: orange;
+    margin-left: 190px;
+}
+.mid_fifth .img5{
+    padding-left: 200px;
+}
+.center2{
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: inherit;
+    margin-top: 190px;
+}
+#bottom{
+    margin-top: 80px;
+}
+.bottoms .img6{
+    padding-left: 210px;
+}
+#foot{
+   background-color: rgb(233, 226, 226); 
+   display: block;
+   text-align: center;
+}
+.foot7{
+    padding-left: 300px;
+
+}
+.foot8{
+    padding-left: 300px;
+    position: relative;
+}
